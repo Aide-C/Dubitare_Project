@@ -27,7 +27,7 @@ int main() {
 
     vector<vector<pair<string, int>>> finalArr;
 
-    fin.open("C:\\Users\\cueva\\Documents\\GreenProgramming\\test.in");
+    fin.open("Add file path here");
     if (!fin) {
         cout << "The question file did not open." << endl
              << "Please check the file and try again. Exiting." << endl;
